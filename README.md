@@ -1,7 +1,7 @@
 # Backgammon-tournoment
 
 Using React, please create a single page application that implements a backgammon tournament.
-The assignment spec can be found [here](https://docs.google.com/document/d/1SAuMONAOc2DatPa_JaAFdnbrGhZQ5ZyMk8bKgRMvSQY/)
+The assignment spec was delivered to you by mail (if not - please contact [Naftali](Naftali.Shcolnik@stratasys.com))
 
 ## Prerequisites
 - Node
